@@ -1,0 +1,7 @@
+c:\users\andrew\documents\visual studio 2015\Projects\HillClimbing\HillClimbing\bin\Debug\HillClimbing.exe.config
+C:\Users\Andrew\Documents\Visual Studio 2015\Projects\HillClimbing\HillClimbing\obj\Debug\HillClimbing.csprojResolveAssemblyReference.cache
+C:\Users\Andrew\Documents\Visual Studio 2015\Projects\HillClimbing\HillClimbing\bin\Debug\HillClimbing.exe
+C:\Users\Andrew\Documents\Visual Studio 2015\Projects\HillClimbing\HillClimbing\bin\Debug\HillClimbing.pdb
+C:\Users\Andrew\Documents\Visual Studio 2015\Projects\HillClimbing\HillClimbing\bin\Debug\CsvHelper.dll
+C:\Users\Andrew\Documents\Visual Studio 2015\Projects\HillClimbing\HillClimbing\obj\Debug\HillClimbing.exe
+C:\Users\Andrew\Documents\Visual Studio 2015\Projects\HillClimbing\HillClimbing\obj\Debug\HillClimbing.pdb
